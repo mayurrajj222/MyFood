@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163455991090",
+    "project_id": "foodorderingapp-ddc6a",
+    "storage_bucket": "foodorderingapp-ddc6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163455991090:android:365fe54b6a12a3aaa82b2b",
+        "android_client_info": {
+          "package_name": "com.mayu.foodorderingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjuq-GcsSEjdCPtLZ4FeAwetTpideVXdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
